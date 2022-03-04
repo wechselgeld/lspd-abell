@@ -29,7 +29,7 @@
   <div class="header">
     <h1>{{ globalMeta.siteName }}</h1>
     <div class="header-bio">
-      Spickzettel gefällig? Kein Problem. <br/> Die offizielle Website des LSPD auf LifeV.
+      Spickzettel gefällig? Kein Problem. <br/> Die offizielle Website des Police Departments auf LifeV.
     </div>
   </div>
 
