@@ -66,19 +66,19 @@ Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist 
 *Sind Sanktionen hier nicht aufgelistet, werden diese nach eigenem Ermessen erteilt.*
 
 ## Weitere Informationen
-### Strafpunkte
+### 🔴 Strafpunkte
 Sammelt man <span style="color:#ff0000">40 Strafpunkte</span> innerhalb eines Monats, erfolgt eine Abstufung auf den nächst niedrigeren Rang. Bei Rekruten erfolgt eine Kündigung aufgrund des nichtbestehens der Probezeit. Sind <span style="color:#ff0000">60 Strafpunkte</span> innerhalb eines Monats erreicht, so erfolgt eine fristlose Kündigung.
 Alle Strafpunkte verfallen jeweils am ersten Tag des nächsten Monats.
 
-### Vorlagen und Vorgaben
+### 📄 Vorlagen und Vorgaben
 Die Nachrichten-Vorlage für Verwarnungen bzw. Abmahnungen findet man unter [wechselgeld.xyz](https://wechselgeld.xyz/cdn/static/index/bMXMWzSC47gwNHq/pd.warn.txt). Die Vorlage für eine Sanktion findet man ebenso unter [wechselgeld.xyz](https://wechselgeld.xyz/cdn/static/index/bMXMWzSC47gwNHq/pd.sanktion.txt).
 Diese Vorlagen werden 1:1 übernommen. Ausgenommen davon sind Felder, in welchen man etwas einträgt.
 
-Hat ein Officer seine Sanktion abgearbeitet, wird auf die entsprechende Nachricht mit dem ✅-Emoji und bei gezahlter Strafe mit einem 💸-Emoji reagiert. Es wird selbstverständlich festgestellt, ob eine Person dies getan hat. Sollte die Feststellung nicht möglich sein, wird der Start und das Ende der Sanktion von der jeweiligen Person in den Dienstproduktivität-Kanal gepostet.
+Hat ein Officer seine Sanktion abgearbeitet, wird auf die entsprechende Nachricht mit dem ✅-Emoji und bei gezahlter Strafe mit einem 💸-Emoji reagiert. Es wird selbstverständlich festgestellt, ob eine Person dies getan hat.
 
 Die Warn-Rolle in Discord wird nach der abgelaufenen Frist nur von der Leitungsebene entfernt und nicht von den Mitarbeitern des Qualitätsmanagements!
 
-### Ablauf
+### ✅ Ablauf
 - Der Officer der die Sanktion erhält, ist dazu verpflichtet, selbständig an das Qualitätsmanagement heranzutreten!
 - Sanktionen werden ausschließlich vom Qualitätsmanagement abgenommen.
 - Sollte ein Officer drei Verwarnungen erhalten, so erfolgt eine Kündigung.
