@@ -57,11 +57,11 @@
         props={link: `${globalMeta.domain}/${meta.$path}/`, $root}
       />
       <div class="more-articles">
-        <h2>Noch mehr hilfreiche Artikel</h2>
+        <h2>Noch viel mehr hilfreiche Artikel</h2>
         <ArticlesPreview props={ 
           contentArray: contentArray.filter(content => content.$path !== meta.$path), 
           noPadding: true 
-        } />
+        } /> 
       </div>
     </div>
   </main>
