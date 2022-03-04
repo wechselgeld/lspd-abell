@@ -1,7 +1,7 @@
 <AbellComponent>
 <template>
   <footer>
-    <div style="text-align: right;">Copyright © <span class="footer-year"></span>, gemacht mit <a href="https://github.com/abelljs/abell">AbellJS</a> und <img src="https://cdn.discordapp.com/emojis/947458884023496725.gif?size=96&quality=lossless" />.</div>
+    <div style="text-align: right;">Copyright © <span class="footer-year"></span>, gemacht mit <a href="https://github.com/abelljs/abell">AbellJS</a> und <img src="https://cdn.discordapp.com/emojis/947458884023496725.gif?size=32&quality=lossless" />.</div>
   </footer>
 </template>
 
