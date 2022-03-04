@@ -23,7 +23,7 @@
   <meta name="twitter:creator" content="@{{ globalMeta.twitter }}" />
   <meta property="og:title" content="{{ meta.title }}" />
   <meta property="og:description" content="{{ meta.description }}" />
-  <meta property="og:image" content="https://res.cloudinary.com/saurabhdaware/image/upload/{{ ogImageOptions }}/v1604047618/saurabh2021/cover.png" />
+  <meta property="og:image" content="https://cdn.newa.media/static/content/int/efuNuzVFy/l_4phwhcVwzTRGAzncjPwx.png" />
   <meta property="og:image:width" content="600" />
   <meta property="og:image:height" content="300" />
   <meta property="og:image:alt" content="Cover Image of blog with title written in it" />
@@ -57,7 +57,7 @@
         props={link: `${globalMeta.domain}/${meta.$path}/`, $root}
       />
       <div class="more-articles">
-        <h2>More from the Author</h2>
+        <h2>Noch mehr hilfreiche Artikel</h2>
         <ArticlesPreview props={ 
           contentArray: contentArray.filter(content => content.$path !== meta.$path), 
           noPadding: true 
