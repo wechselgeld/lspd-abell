@@ -26,7 +26,7 @@ Nutzungserlaubnis • Muss angefragt werden
 ## Gefängnisbus<br />
 Nutzung • Jeder<br />
 Sitzplätze • 11 Sitzplätze<br />
-Streifentauglich • Nein
+Streifentauglich • Nein<br />
 Nutzungserlaubnis • Jederzeit erteilt
 </div>
 
@@ -37,6 +37,16 @@ Nutzungserlaubnis • Jederzeit erteilt
 ## Insurgent<br />
 Nutzung • S.W.A.T.<br />
 Sitzplätze • 6 Sitzplätze<br />
-Streifentauglich • Siehe S.W.A.T.-interne Regelung
+Streifentauglich • Siehe S.W.A.T.-interne Regelung<br />
+Nutzungserlaubnis • Für S.W.A.T. jederzeit erteilt
+</div>
+
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/FKTf89y/Bild-2022-02-02-214359.png" style="border:5px solid #555;" /></div>
+<div style="display:inline-block;">
+
+## Riot<br />
+Nutzung • S.W.A.T.<br />
+Sitzplätze • 8 Sitzplätze<br />
+Streifentauglich • Siehe S.W.A.T.-interne Regelung<br />
 Nutzungserlaubnis • Für S.W.A.T. jederzeit erteilt
 </div>
