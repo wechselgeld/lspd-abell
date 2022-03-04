@@ -12,10 +12,10 @@ Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bring
 > <span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:#ff2a00">Strafpunkte</span>
 
 ### 🌟 Spezielle Fahrzeuge
-<img style="display:inline-block;vertical-align:top;border:5px solid white;" width="700" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" />
-<p style="display:inline-block;">
+<div style="display:inline-block;vertical-align:top;border:5px solid #555;"><img width="500" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" />/></div>
+<div style="display:inline-block;"><p>
 Bike<br />
 Nutzung: Jeder<br />
 Sitzplätze: 1 Sitzplatz<br />
 Streifentauglich: Ja, aber nur Motorradstaffel
-</p>
+</p></div>
