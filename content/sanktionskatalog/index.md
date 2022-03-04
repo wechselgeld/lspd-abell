@@ -28,8 +28,8 @@ Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, i
   Sanktionen-Kanal <img style="position: relative; top: 5px;left: 3px;" alt="discord logo" width="20" src="./assets/discord.svg">
 </a></div>
 
-## Sanktionen
-> <span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:ff2a00">Strafpunkte</span>
+## Katalog
+> <span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:#ff2a00">Strafpunkte</span>
 
 Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist das eine Sanktion, die sehr schwerwiegend ist, wird "<span style="color:ff0000">Strafpunkte</span>" in einem dunklen rot dargestellt - ist die Sanktion harmlos und weniger schlimm, wird "<span style="color:#ffea00">Strafpunkte</span>" in einem hellen Gelb dargestellt.
 
@@ -58,3 +58,25 @@ Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist 
 - Verstoß gegen Abmachungen bei Verhandlungen jeglicher Art » 30x Apfelsaft abgeben & 150.000 Strafzahlung & <span style="color:#ff6a00">20 Strafpunkte</span>
 - Verursachen eines Fraktionsstrikes » 125x Apfelsaft abgeben & 400.000 Strafzahlung & <span style="color:#ff2a00">25 Strafpunkte</span>
 - Nicht-respektvoller Umgang (Beleidigungen) gegen einen Vorgesetzten, Zivilisten od. Beamten » 35x Apfelsaft abgeben & 250.000 Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
+
+*Sind Sanktionen hier nicht aufgelistet, werden diese nach eigenem Ermessen erteilt.*
+
+## Weitere Informationen
+### Strafpunkte
+Sammelt man <span style="color:#ff0000">40 Strafpunkte</span> innerhalb eines Monats, erfolgt eine Abstufung auf den nächst niedrigeren Rang. Bei Rekruten erfolgt eine Kündigung aufgrund des nichtbestehens der Probezeit. Sind <span style="color:#ff0000">60 Strafpunkte</span> innerhalb eines Monats erreicht, so erfolgt eine fristlose Kündigung.
+Alle Strafpunkte verfallen jeweils am ersten Tag des nächsten Monats.
+
+### Vorlagen und Vorgaben
+Die Nachrichten-Vorlage für Verwarnungen bzw. Abmahnungen findet man unter [wechselgeld.xyz](https://wechselgeld.xyz/cdn/static/index/bMXMWzSC47gwNHq/pd.warn.txt). Die Vorlage für eine Sanktion findet man ebenso unter [wechselgeld.xyz](https://wechselgeld.xyz/cdn/static/index/bMXMWzSC47gwNHq/pd.sanktion.txt).
+Diese Vorlagen werden 1:1 übernommen. Ausgenommen davon sind Felder, in welchen man etwas einträgt.
+
+Hat ein Officer seine Sanktion abgearbeitet, wird auf die entsprechende Nachricht mit dem ✅-Emoji und bei gezahlter Strafe mit einem 💸-Emoji reagiert. Es wird selbstverständlich festgestellt, ob eine Person dies getan hat. Sollte die Feststellung nicht möglich sein, wird der Start und das Ende der Sanktion von der jeweiligen Person in den Dienstproduktivität-Kanal gepostet.
+
+Die Warn-Rolle in Discord wird nach der abgelaufenen Frist nur von der Leitungsebene entfernt und nicht von den Mitarbeitern des Qualitätsmanagements!
+
+### Ablauf
+- Der Officer der die Sanktion erhält, ist dazu verpflichtet, selbständig an das Qualitätsmanagement heranzutreten!
+- Sanktionen werden ausschließlich vom Qualitätsmanagement abgenommen.
+- Sollte ein Officer drei Verwarnungen erhalten, so erfolgt eine Kündigung.
+- Sanktionen können nicht mithilfe von Geld umgangen werden!
+- Wenn dieselbe Sanktion innerhalb einer Woche mehrfach auftritt, spricht die Leitung des Qualitätsmanagements eine weitere Verwarnung aus.
