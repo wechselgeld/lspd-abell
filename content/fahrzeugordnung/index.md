@@ -17,12 +17,11 @@ Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bring
 </div>
 <div style="display:inline-block;">
 <p>
-Here goes the text content.
-</p>
-</div>
-
-<img style="border:15px solid white;float:right;padding: 10px;" alt="discord logo" width="700" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" /> Das ist ein Test.
 Bike
 Nutzung: Jeder
 Sitzplätze: 1 Sitzplatz
 Streifentauglich: Ja, aber nur Motorradstaffel
+</p>
+</div>
+
+<img style="border:15px solid white;float:right;padding: 10px;" alt="discord logo" width="700" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" /> Das ist ein Test.
