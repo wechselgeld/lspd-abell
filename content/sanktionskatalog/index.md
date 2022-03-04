@@ -15,11 +15,11 @@ Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, i
   style="border-radius: 6px;font-size: 11pt; padding:10px 20px;background-color: #353D3E; color: #ffffff;" 
   href="https://discord.com/channels/946122132151230514/946259173568565248"> 
   Sanktionsprotokoll-Kanal <img style="position: relative; top: 5px;left: 3px;" alt="discord logo" width="20" src="./assets/discord.svg">
-</a></div> <div style="padding: 0px 0px 24px 0px"><a 
+</a><a 
   style="border-radius: 6px;font-size: 11pt; padding:10px 20px;background-color: #353D3E; color: #ffffff;" 
   href="https://discord.com/channels/946122132151230514/946259720593895434"> 
   Sanktionserinnerungen-Kanal <img style="position: relative; top: 5px;left: 3px;" alt="discord logo" width="20" src="./assets/discord.svg">
-</a></div> <div style="padding: 0px 0px 24px 0px"><a 
+</a><a 
   style="border-radius: 6px;font-size: 11pt; padding:10px 20px;background-color: #353D3E; color: #ffffff;" 
   href="https://discord.com/channels/946122132151230514/946258864523837450"> 
   Sanktionen-Kanal <img style="position: relative; top: 5px;left: 3px;" alt="discord logo" width="20" src="./assets/discord.svg">
