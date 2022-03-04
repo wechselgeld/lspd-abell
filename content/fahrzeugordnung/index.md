@@ -3,20 +3,40 @@
 ## Weiteres
 ### 🏎️ Alles zum Tuning der Fahrzeuge
 Unsere Fahrzeuge dürfen unabhängig vom jeweiligen Rang der Person optisch — bis auf die Änderung des Felgentypes auf Geländefelgen, die farbliche Anpassung des Nummernschildes und der Grad der Scheibentönung — nicht verändert werden.
-> Die einzigen Ausnahmen stellen in diesem Fall unsere Unmarked-Fahrzeuge dar. Diese dürfen ausschließlich von der Leitungsebene farblich angepasst werden.
+```Die einzigen Ausnahmen stellen in diesem Fall unsere Unmarked-Fahrzeuge dar. Diese dürfen ausschließlich von der Leitungsebene farblich angepasst werden.```
 
 ### 🚀 Wie schnell unsere Fahrzeuge sind
 Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bringen es auf rund 290 bis 360 km/h. Diese Geschwindigkeit kann mithilfe des oben erwähnten Tunings angepasst und somit erhöht werden.
 
 ## Katalog
-> <span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:#ff2a00">Strafpunkte</span>
-
 ### 🌟 Spezielle Fahrzeuge
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" style="border:5px solid #555;" /></div>
 <div style="display:inline-block;">
 
 ## Bike<br />
-Nutzung: Jeder<br />
-Sitzplätze: 1 Sitzplatz<br />
-Streifentauglich: Ja, aber nur Motorradstaffel
+Nutzung • Jeder<br />
+Sitzplätze • 1 Sitzplatz<br />
+Streifentauglich • Ja, aber nur Motorradstaffel
+Nutzungserlaubnis • Muss angefragt werden
+</div>
+
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/Df4MKbr/image.png" style="border:5px solid #555;" /></div>
+<div style="display:inline-block;">
+
+## Gefängnisbus<br />
+Nutzung • Jeder<br />
+Sitzplätze • 11 Sitzplätze<br />
+Streifentauglich • Nein
+Nutzungserlaubnis • Jederzeit erteilt
+</div>
+
+### 🔫 S.W.A.T.-Fahrzeuge
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/cvKNpKG/Bild-2022-02-02-214113.png" style="border:5px solid #555;" /></div>
+<div style="display:inline-block;">
+
+## Insurgent<br />
+Nutzung • S.W.A.T.<br />
+Sitzplätze • 6 Sitzplätze<br />
+Streifentauglich • Siehe S.W.A.T.-interne Regelung
+Nutzungserlaubnis • Für S.W.A.T. jederzeit erteilt
 </div>
