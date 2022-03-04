@@ -36,6 +36,6 @@
   <main>
     <ArticlesPreview props={ contentArray } />
   </main>
-  <center><Footer/></center>
+  <Footer/>
 </body>
 </html>
