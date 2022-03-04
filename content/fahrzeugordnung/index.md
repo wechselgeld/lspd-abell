@@ -12,7 +12,7 @@ Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bring
 > <span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:#ff2a00">Strafpunkte</span>
 
 ### 🌟 Spezielle Fahrzeuge
-<div style="display:inline-block;vertical-align:top;"><img width="500" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" style="border:5px solid #555;padding: 10px;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" style="border:5px solid #555;" /></div>
 <div style="display:inline-block;">
 
 ## Bike<br />
