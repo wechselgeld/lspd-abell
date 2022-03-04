@@ -3,6 +3,7 @@
 ## Weiteres
 ### 🏎️ Alles zum Tuning der Fahrzeuge
 Unsere Fahrzeuge dürfen unabhängig vom jeweiligen Rang der Person optisch — bis auf die Änderung des Felgentypes auf Geländefelgen, die farbliche Anpassung des Nummernschildes und der Grad der Scheibentönung — nicht verändert werden.
+
 ```Die einzigen Ausnahmen stellen in diesem Fall unsere Unmarked-Fahrzeuge dar. Diese dürfen ausschließlich von der Leitungsebene farblich angepasst werden.```
 
 ### 🚀 Wie schnell unsere Fahrzeuge sind

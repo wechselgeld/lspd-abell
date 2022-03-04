@@ -16,11 +16,13 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:creator" content="@{{ globalMeta.twitter }}" />
   <meta property="og:title" content="{{ globalMeta.siteName }}" />
-  <meta property="og:description" content="{{ globalMeta.siteName }}" />
+  <meta property="og:description" content="Das Los Santos Police Department auf LifeV präsentiert die eigene Website" />
   <meta property="og:image" content="https://cdn.newa.media/static/content/int/efuNuzVFy/l_4phwhcVwzTRGAzncjPwx.png,w_1100,c_fit,co_rgb:222222,l_text:Work Sans_80_600:{{ globalMeta.siteName }}/v1604047618/saurabh2021/cover.png" />
+ 
+  <link rel="icon" href="{{ $root }}/favicon.ico" type="image/x-icon" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Welcome to the {{ globalMeta.siteName }}, A blog by {{ globalMeta.name }}" />
+  <meta name="description" content="Willkommen beim {{ globalMeta.siteName }}!" />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
   <title>{{ globalMeta.siteName }}</title>
 </head>
@@ -29,7 +31,7 @@
   <div class="header">
     <h1>{{ globalMeta.siteName }}</h1>
     <div class="header-bio">
-      Spickzettel gefällig? Kein Problem. <br/> Hier findest Du alle nötigen Informationen rund um das Police Department auf LifeV.
+      Spickzettel gefällig? Kein Problem. 😉<br/> Hier findest Du alle nötigen Informationen rund um das Police Department auf LifeV.
     </div>
   </div>
 
