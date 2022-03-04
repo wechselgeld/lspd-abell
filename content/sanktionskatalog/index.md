@@ -1,19 +1,19 @@
 *Das hier vorliegende Dokument ist für den internen Gebrauch geeignet. Etwaiger unsachgemäßer Gebrauch des Dokumentes beziehungsweise unautorisierte Weitergaben sind verboten und werden mit Disziplinarmaßnahmen getadelt.*
 
 ## Informationen über Sanktionen
-### Wer Sanktionen ausstellen und bearbeiten darf
+### 🔍 Wer Sanktionen ausstellen und bearbeiten darf
 Sanktionen dürfen von allen Mitgliedern aus der Leitungsebene und Mitarbeitern des Qualitätsmanagements verteilt werden. 
 Einen Platz für das Qualitätsmanagement erhältst Du ab dem Rang Corporal oder höher. In seltenen Fällen werden Ausnahmen erteilt.
 
-### Wie lange Du Zeit hast, um die Sanktion zu begleichen
+### ⏱️ Wie lange Du Zeit hast, um die Sanktion zu begleichen
 Um Deine Sanktion abzuarbeiten oder zu begleichen hast Du insgesamt acht Tage Zeit.
 Begleichst Du Deine Sanktion nach fünf Tagen nicht, so erhältst Du eine Sanktionserinnerung, bei welcher die zu begleichende Strafe verdoppelt wird. Sollte eine solche Sanktionserinnerung ausgestellt werden, so hast Du anschließend drei Tage Zeit, um diese zu begleichen. Geschieht das nicht, erfolgt eine Entlassung aus dem Polizeidienst.
 
-### Definition von "abgeben"
+### 🛍️ Definition von "abgeben"
 Was heißt "abgeben"? Wie Du schon bemerkt hast, sanktionieren wir mit dem abgeben von Äpfeln, Aramidfasern und mehr.
 Abgeben heißt in diesem Fall aber nicht, dass Ihr sie zwingend selbst sammeln und verarbeiten müsst - Ihr könnt sie auch einfach von Zivilisten kaufen. Hautpsache Ihr gebt sie beim Qualitätsmanagement ab.
 
-### Die relevantesten Informationen zum Thema Sanktionen und wo sie bekanntgegeben werden
+### ❗ Die relevantesten Informationen zum Thema Sanktionen und wo sie bekanntgegeben werden
 Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, in welchen Du die wichtigsten Informationen und Beiträge findest. Andernfalls findest Du alles neue in unseren Informations-Kanälen.
 <div style="padding: 0px 0px 24px 0px">
 <a 
