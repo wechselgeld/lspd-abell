@@ -115,13 +115,13 @@ Tuning • Zu Schwarz-Weiß umlackieren, blauen Akzent entfernen lassen
 </div>
 
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/Swn7ZRg/Bild-2022-02-02-221249.png" style="border:5px solid #555;" /></div>
-<div style="display:inline-block;" position="absolute; right: 0px">
+<div style="display:inline-block;"><center>
 
 ## Ececutioner<br />
 Nutzung • Ab Officer (Rang 3)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
-</div>
+</center></div>
 
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/svc7PN5/Bild-2022-02-02-215528.png" style="border:5px solid #555;" /></div>
 <div style="display:inline-block;">
