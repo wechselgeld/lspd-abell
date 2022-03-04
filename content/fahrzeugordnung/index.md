@@ -12,7 +12,16 @@ Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bring
 > <span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:#ff2a00">Strafpunkte</span>
 
 ### 🌟 Spezielle Fahrzeuge
-<img style="position: relative; top: 5px;left: 3px;" alt="discord logo" width="700" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" style="border:15px solid white;float:right;padding: 10px" /> Das ist ein Test.
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://loremflickr.com/320/240" alt="img"/>
+</div>
+<div style="display:inline-block;">
+<p>
+Here goes the text content.
+</p>
+</div>
+
+<img style="border:15px solid white;float:right;padding: 10px;" alt="discord logo" width="700" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" /> Das ist ein Test.
 Bike
 Nutzung: Jeder
 Sitzplätze: 1 Sitzplatz
