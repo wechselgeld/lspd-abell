@@ -17,9 +17,9 @@ Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bring
 </div>
 <div style="display:inline-block;">
 <p>
-Bike
-Nutzung: Jeder
-Sitzplätze: 1 Sitzplatz
+Bike<br />
+Nutzung: Jeder<br />
+Sitzplätze: 1 Sitzplatz<br />
 Streifentauglich: Ja, aber nur Motorradstaffel
 </p>
 </div>
