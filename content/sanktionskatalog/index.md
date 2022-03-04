@@ -30,7 +30,7 @@ Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, i
 
 ## Sanktionen
 Der Sanktionskatalog ist in folgendem Format aufgebaut:
-```<span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:red">Strafpunkte</span>```
+> ### <span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:red">Strafpunkte</span>
 
 Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist das eine Sanktion, die sehr schwerwiegend ist, wird "<span style="color:red">Strafpunkte</span>" in einem dunklen rot dargestellt - ist die Sanktion harmlos und weniger schlimm, wird "<span style="color:#FFEC00">Strafpunkte</span>" in einem hellen Gelb dargestellt.
 
