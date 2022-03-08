@@ -185,14 +185,6 @@ Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/g7DKFZW/Bild-2022-02-02-224229.png" style="border:5px solid #d3670e;" /></div>
-<div style="display:inline-block;">
-
-## BMW M5 CS<br />
-Sitzplätze • 4 Sitzplätze<br />
-Streifentauglich • Ja
-</div><br />
-
 ### Ab <span style="color:#d3670e">Sergeant</span> (Rang 7)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/RjmtKgg/Bild-2022-02-02-222309.png" style="border:5px solid #d3670e;" /></div>
 <div style="display:inline-block;">
@@ -219,12 +211,3 @@ Streifentauglich • Nein
 Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div><br />
-
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/w63CF2D/Bild-2022-02-02-222617.png" style="border:5px solid #9e0f04;" /></div>
-<div style="display:inline-block;">
-
-## Rapid GT<br />
-Nutzung • Ab <span style="color:#9e0f04">Bureau Chief</span> (Rang 10)<br />
-Sitzplätze • 2 Sitzplätze<br />
-Streifentauglich • Nein
-</div>
