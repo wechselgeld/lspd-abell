@@ -83,7 +83,6 @@ Streifentauglich • Ja
 <div style="display:inline-block;">
 
 ## City Buffalo<br />
-Nutzung • Ab <span style="color:#1abc9c">Cadet</span> (Rang 1)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div><br />
@@ -92,7 +91,6 @@ Streifentauglich • Ja
 <div style="display:inline-block;">
 
 ## Highway Buffalo<br />
-Nutzung • Ab <span style="color:#1abc9c">Cadet</span> (Rang 1)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div><br />
@@ -120,7 +118,6 @@ Tuning • Zu Schwarz-Weiß umlackieren, blauen Akzent entfernen lassen
 <div style="display:inline-block;">
 
 ## Ececutioner<br />
-Nutzung • Ab <span style="color:#3f95ff">Officer</span> (Rang 3)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div><br />
@@ -151,10 +148,10 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div><br />
 
+### Ab <span style="color:#d3670e">Corporal</span> (Rang 5)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/k1KPhm9/Bild-2022-02-02-222058.png" style="border:5px solid #d3670e;" /></div>
 <div style="display:inline-block;">
 
-### Ab <span style="color:#d3670e">Corporal</span> (Rang 5)<br />
 ## Unmarked I   (1)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Nein
