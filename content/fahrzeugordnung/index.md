@@ -9,8 +9,8 @@ Unsere Fahrzeuge dürfen unabhängig vom jeweiligen Rang der Person optisch — 
 ### 🚀 Wie schnell unsere Fahrzeuge sind
 Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bringen es auf rund 290 bis 360 km/h. Diese Geschwindigkeit kann mithilfe des oben erwähnten Tunings angepasst und somit erhöht werden.
 
-## Katalog
-### 🌟 Spezielle Fahrzeuge
+# Katalog
+## 🌟 Spezielle Fahrzeuge
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/ncdwfvC/Bild-2022-02-02-221843.png" style="border:5px solid #000000;" /></div>
 <div style="display:inline-block;">
 
@@ -31,7 +31,7 @@ Streifentauglich • Nein<br />
 Nutzungserlaubnis • Jederzeit erteilt
 </div>
 
-### 🔫 S.W.A.T.-Fahrzeuge
+## 🔫 S.W.A.T.-Fahrzeuge
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/cvKNpKG/Bild-2022-02-02-214113.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
@@ -59,21 +59,22 @@ Sitzplätze • 8 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div>
 
-### 🚔 Streifenfahrzeuge
+## 🚔 Streifenfahrzeuge
+
+### Ab <span style="color:#1abc9c">Recruit</span> (Rang 0)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/svc7PN5/Bild-2022-02-02-215528.png" style="border:5px solid #1abc9c;" /></div>
 <div style="display:inline-block;">
 
 ## Scout<br />
-Nutzung • Ab <span style="color:#1abc9c">Recruit</span> (Rang 0)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div>
 
+### Ab <span style="color:#1abc9c">Cadet</span> (Rang 1)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/z8PB5NV/Bild-2022-02-02-215757.png" style="border:5px solid #1abc9c;" /></div>
 <div style="display:inline-block;">
 
 ## Fugitive<br />
-Nutzung • Ab <span style="color:#1abc9c">Cadet</span> (Rang 1)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div>
@@ -96,20 +97,20 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div>
 
+### Ab <span style="color:#3f95ff">Probationary Officer</span></span> (Rang 2)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/7CGYPvn/Bild-2022-02-02-220731.png" style="border:5px solid #3f95ff;" /></div>
 <div style="display:inline-block;">
 
 ## Audi RS6<br />
-Nutzung • Ab <span style="color:#3f95ff">Probationary Officer</span></span> (Rang 2)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div>
 
+### Ab <span style="color:#3f95ff">Officer</span></span> (Rang 3)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/PFZd7DD/Bild-2022-02-02-220937.png" style="border:5px solid #3f95ff;" /></div>
 <div style="display:inline-block;">
 
-## BMW X7<br />
-Nutzung • Ab <span style="color:#3f95ff">Officer</span></span> (Rang 3)<br />
+## BMW X6<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja<br />
 Tuning • Zu Schwarz-Weiß umlackieren, blauen Akzent entfernen lassen
@@ -128,17 +129,16 @@ Streifentauglich • Ja
 <div style="display:inline-block;">
 
 ## Range Rover<br />
-Nutzung • Ab <span style="color:#3f95ff">Officer</span> (Rang 3)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja<br />
 Tuning • Der Grad der Scheibentönung darf nicht angepasst werden.
 </div>
 
+### Ab <span style="color:#3f95ff">Senior Officer</span> (Rang 4)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/2qcP5ZB/Bild-2022-02-02-221452.png" style="border:5px solid #3f95ff;" /></div>
 <div style="display:inline-block;">
 
 ## Lampadati<br />
-Nutzung • Ab <span style="color:#3f95ff">Senior Officer</span> (Rang 4)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div>
@@ -147,7 +147,6 @@ Streifentauglich • Ja
 <div style="display:inline-block;">
 
 ## BMW 3er Combi<br />
-Nutzung • Ab <span style="color:#3f95ff">Senior Officer</span> (Rang 4)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div>
@@ -155,8 +154,8 @@ Streifentauglich • Ja
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/k1KPhm9/Bild-2022-02-02-222058.png" style="border:5px solid #d3670e;" /></div>
 <div style="display:inline-block;">
 
+### Ab <span style="color:#d3670e">Corporal</span> (Rang 5)<br />
 ## Unmarked I   (1)<br />
-Nutzung • Ab <span style="color:#d3670e">Corporal</span> (Rang 5)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Nein
 </div>
@@ -165,25 +164,15 @@ Streifentauglich • Nein
 <div style="display:inline-block;">
 
 ## Maserati<br />
-Nutzung • Ab <span style="color:#d3670e">Corporal</span> (Rang 5)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div>
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/N3NjKsF/Bild-2022-02-02-223810.png" style="border:5px solid #d3670e;" /></div>
-<div style="display:inline-block;">
-
-## Audi RS5<br />
-Nutzung • Ab <span style="color:#d3670e">Corporal</span> (Rang 5)<br />
-Sitzplätze • 2 Sitzplätze<br />
-Streifentauglich • Nein
-</div>
-
+### Ab <span style="color:#d3670e">Senior Corporal</span> (Rang 6)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/RTc5kCP/Bild-2022-02-02-222211.png" style="border:5px solid #d3670e;" /></div>
 <div style="display:inline-block;">
 
 ## Unmarked II   (2)<br />
-Nutzung • Ab <span style="color:#d3670e">Senior Corporal</span> (Rang 6)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Nein
 </div>
@@ -192,7 +181,6 @@ Streifentauglich • Nein
 <div style="display:inline-block;">
 
 ## Porsche 718 Cayman S<br />
-Nutzung • Ab <span style="color:#d3670e">Senior Corporal</span> (Rang 6)<br />
 Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div>
@@ -201,34 +189,33 @@ Streifentauglich • Nein
 <div style="display:inline-block;">
 
 ## BMW M5 CS<br />
-Nutzung • Ab <span style="color:#d3670e">Senior Corporal</span> (Rang 6)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div>
 
+### Ab <span style="color:#d3670e">Sergeant</span> (Rang 7)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/RjmtKgg/Bild-2022-02-02-222309.png" style="border:5px solid #d3670e;" /></div>
 <div style="display:inline-block;">
 
 ## Unmarked III   (3)<br />
-Nutzung • Ab <span style="color:#d3670e">Sergeant</span> (Rang 7)<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Nein
 </div>
 
+### Ab <span style="color:#0b8d35">Lieutenant</span> (Rang 8)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/L16jt4J/Bild-2022-02-02-222512.png" style="border:5px solid #0b8d35;" /></div>
 <div style="display:inline-block;">
 
 ## Sentinel XS<br />
-Nutzung • Ab <span style="color:#0b8d35">Lieutenant</span> (Rang 8)<br />
 Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div>
 
+### Ab <span style="color:#0b8d35">Captain</span> (Rang 9)<br />
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/zsq6FtX/Bild-2022-02-02-222730.png" style="border:5px solid #0b8d35;" /></div>
 <div style="display:inline-block;">
 
 ## Elegy RH8<br />
-Nutzung • Ab <span style="color:#0b8d35">Captain</span> (Rang 9)<br />
 Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div>
@@ -238,15 +225,6 @@ Streifentauglich • Nein
 
 ## Rapid GT<br />
 Nutzung • Ab <span style="color:#9e0f04">Bureau Chief</span> (Rang 10)<br />
-Sitzplätze • 2 Sitzplätze<br />
-Streifentauglich • Nein
-</div>
-
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/Gd28pNC/Bild-2022-02-02-222904.png" style="border:5px solid #9e0f04;" /></div>
-<div style="display:inline-block;">
-
-## Vacca<br />
-Nutzung • Ab <span style="color:#9e0f04">Assistant Chief</span> (Rang 11)<br />
 Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div>
