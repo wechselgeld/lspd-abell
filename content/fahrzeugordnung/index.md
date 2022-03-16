@@ -61,7 +61,7 @@ Streifentauglich • Siehe S.W.A.T.-interne Regelung
 
 ## 🚔 Streifenfahrzeuge
 
-### Für jeden Officer zugänglich
+### Ab <span style="color:#c71616">Police Recruit</span> (Rang 0) verwendbar
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/svc7PN5/Bild-2022-02-02-215528.png" style="border:5px solid #04254e;" /></div>
 <div style="display:inline-block;">
 
@@ -70,6 +70,8 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div><br />
 
+
+### Ab <span style="color:#c71616">Police Cadet</span> (Rang 1) verwendbar
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/z8PB5NV/Bild-2022-02-02-215757.png" style="border:5px solid #04254e;" /></div>
 <div style="display:inline-block;">
 
@@ -176,9 +178,8 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Nein
 </div><br />
 
-### Ab und über Lieutenant
-
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/L16jt4J/Bild-2022-02-02-222512.png" style="border:5px solid #04254e;" /></div>
+### Ab <span style="color:#0b8d35">Lieutenant</span> (Rang 8) verwendbar
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/L16jt4J/Bild-2022-02-02-222512.png" style="border:5px solid #0b8d35;" /></div>
 <div style="display:inline-block;">
 
 ## Sentinel XS<br />
@@ -186,7 +187,8 @@ Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/zsq6FtX/Bild-2022-02-02-222730.png" style="border:5px solid #04254e;" /></div>
+### Ab <span style="color:#0b8d35">Captain</span> (Rang 9) verwendbar
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/zsq6FtX/Bild-2022-02-02-222730.png" style="border:5px solid #0b8d35;" /></div>
 <div style="display:inline-block;">
 
 ## Elegy RH8<br />
@@ -194,6 +196,7 @@ Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div><br />
 
+### Ausschließlich für die <span style="color:#c71616">Leitungsebene</span> bestimmt
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/znTv85b/Bild-2022-02-02-224050.png" style="border:5px solid #04254e;" /></div>
 <div style="display:inline-block;">
 
