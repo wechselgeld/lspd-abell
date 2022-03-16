@@ -61,7 +61,7 @@ Streifentauglich • Siehe S.W.A.T.-interne Regelung
 
 ## 🚔 Streifenfahrzeuge
 
-### Ab <span style="color:##1abc9c">Police Recruit</span> (Rang 0) verwendbar
+### Ab <span style="color:#1abc9c">Police Recruit</span> (Rang 0) verwendbar
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/svc7PN5/Bild-2022-02-02-215528.png" style="border:5px solid #1abc9c;" /></div>
 <div style="display:inline-block;">
 
@@ -70,7 +70,7 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div><br />
 
-### Ab <span style="color:##1abc9c">Police Cadet</span> (Rang 1) verwendbar
+### Ab <span style="color:#1abc9c">Police Cadet</span> (Rang 1) verwendbar
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/z8PB5NV/Bild-2022-02-02-215757.png" style="border:5px solid #1abc9c;" /></div>
 <div style="display:inline-block;">
 
