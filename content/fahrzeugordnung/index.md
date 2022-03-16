@@ -70,7 +70,6 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div><br />
 
-
 ### Ab <span style="color:##1abc9c">Police Cadet</span> (Rang 1) verwendbar
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/z8PB5NV/Bild-2022-02-02-215757.png" style="border:5px solid #1abc9c;" /></div>
 <div style="display:inline-block;">
@@ -111,6 +110,14 @@ Streifentauglich • Ja
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja<br />
 Tuning • Zu Schwarz-Weiß umlackieren, blauen Akzent entfernen lassen
+</div><br />
+
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/zRX6fXH/image.png" style="border:5px solid #1abc9c;" /></div>
+<div style="display:inline-block;">
+
+## BMW X5<br />
+Sitzplätze • 4 Sitzplätze<br />
+Streifentauglich • Ja
 </div><br />
 
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/Swn7ZRg/Bild-2022-02-02-221249.png" style="border:5px solid #1abc9c;" /></div>
