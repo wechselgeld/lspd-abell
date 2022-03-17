@@ -32,7 +32,7 @@ Nutzungserlaubnis • Jederzeit erteilt
 </div><br />
 
 ## 🔫 S.W.A.T.-Fahrzeuge
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/cvKNpKG/Bild-2022-02-02-214113.png" style="border:5px solid #1abc9c;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/cvKNpKG/Bild-2022-02-02-214113.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
 ## Insurgent<br />
@@ -41,7 +41,7 @@ Sitzplätze • 6 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/FKTf89y/Bild-2022-02-02-214359.png" style="border:5px solid #1abc9c;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/FKTf89y/Bild-2022-02-02-214359.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
 ## Riot<br />
@@ -50,7 +50,7 @@ Sitzplätze • 8 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/9qbM7qg/Bild-2022-02-02-215247.png" style="border:5px solid #1abc9c;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/9qbM7qg/Bild-2022-02-02-215247.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
 ## Granger<br />
@@ -59,7 +59,7 @@ Sitzplätze • 8 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/BcK5fjr/image.png" style="border:5px solid #1abc9c;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/BcK5fjr/image.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
 ## BMW X5 (S.W.A.T.-Branding)<br />
