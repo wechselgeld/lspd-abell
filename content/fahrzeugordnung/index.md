@@ -59,6 +59,15 @@ Sitzplätze • 8 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/BcK5fjr/image.png" style="border:5px solid #1abc9c;" /></div>
+<div style="display:inline-block;">
+
+## BMW X5 (S.W.A.T.-Branding)<br />
+Nutzung • <span style="color:#968b54">S.W.A.T.</span><br />
+Sitzplätze • 4 Sitzplätze<br />
+Streifentauglich • Siehe S.W.A.T.-interne Regelung
+</div><br />
+
 ## 🚔 Streifenfahrzeuge
 
 ### Ab <span style="color:#1abc9c">Police Recruit</span> (Rang 0) verwendbar

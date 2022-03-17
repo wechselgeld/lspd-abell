@@ -38,9 +38,9 @@ Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, i
 Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist das eine Sanktion, die sehr schwerwiegend ist, wird "<span style="color:ff0000">Strafpunkte</span>" in einem dunklen rot dargestellt - ist die Sanktion harmlos und weniger schlimm, wird "<span style="color:#ffea00">Strafpunkte</span>" in einem hellen Gelb dargestellt.
 
 - Vergessen sich in die Dienst An- und Abmeldung oder Streifeneinteilung ein- oder auszutragen » 5x Westen abgeben & 50.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
-- Falsch geparkt » 10x Westen abgeben & 50.000 $ $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
-- Nicht-einhaltung der Funkdisziplin » 10x Westen abgeben & 150.000 $ $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
-- Dienstfahrzeug falsch getunt » 10x Westen abgeben abgeben & 200.000 $ $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Falsch geparkt » 10x Westen abgeben & 50.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
+- Nicht-einhaltung der Funkdisziplin » 10x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Dienstfahrzeug falsch getunt » 10x Westen abgeben abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - In das Chief Büro gelaufen ohne zu klopfen » 15x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Unachtsames fahren od. missachten der StvO » 10x Westen abgeben & 100.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
 - Übermäßig Zeit im Police Department verbringen, ohne produktiv zu sein » 20x Westen abgeben & 10.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
