@@ -211,12 +211,3 @@ Streifentauglich • Nein
 Sitzplätze • 2 Sitzplätze<br />
 Streifentauglich • Nein
 </div><br />
-
-### Ausschließlich für die <span style="color:#c71616">Leitungsebene</span> bestimmt
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/znTv85b/Bild-2022-02-02-224050.png" style="border:5px solid #c71616;" /></div>
-<div style="display:inline-block;">
-
-## Porsche 718 Cayman S<br />
-Sitzplätze • 2 Sitzplätze<br />
-Streifentauglich • Nein
-</div><br />
