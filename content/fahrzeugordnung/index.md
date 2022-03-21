@@ -68,6 +68,17 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
+## 🧚 Detective-Fahrzeuge
+
+## Insurgent<br />
+Nutzung • <span style="color:#ff6100">Detective</span><br />
+Sitzplätze • 6 Sitzplätze<br />
+Streifentauglich • Nur für Einsätze
+</div><br />
+
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/FKTf89y/Bild-2022-02-02-214359.png" style="border:5px solid #ff6100;" /></div>
+<div style="display:inline-block;">
+
 ## 🚔 Streifenfahrzeuge
 
 ### Ab <span style="color:#1abc9c">Police Recruit</span> (Rang 0) verwendbar
