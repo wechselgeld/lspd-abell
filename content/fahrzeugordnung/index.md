@@ -4,7 +4,7 @@
 ### 🏎️ Alles zum Tuning der Fahrzeuge
 Unsere Fahrzeuge dürfen unabhängig vom jeweiligen Rang der Person optisch — bis auf die Änderung des Felgentypes auf Geländefelgen, die farbliche Anpassung des Nummernschildes und der Grad der Scheibentönung — nicht verändert werden.
 
-```Die einzigen Ausnahmen stellen in diesem Fall unsere Unmarked-Fahrzeuge dar. Diese dürfen ausschließlich von der Leitungsebene farblich angepasst werden.```
+```Die einzigen Ausnahmen stellen in diesem Fall unsere Unmarked-Fahrzeuge dar. Diese dürfen ausschließlich von der Leitungsebene farblich angepasst werden oder .```
 
 ### 🚀 Wie schnell unsere Fahrzeuge sind
 Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bringen es auf rund 290 bis 360 km/h. Diese Geschwindigkeit kann mithilfe des oben erwähnten Tunings angepasst und somit erhöht werden.
@@ -116,7 +116,7 @@ Streifentauglich • Siehe SPU-interne Regelung
 ## BMW M5<br />
 Nutzung • <span style="color:#002bff">SPU</span><br />
 Sitzplätze • 4 Sitzplätze<br />
-Streifentauglich • Siehe SPU-interne Regelung
+Streifentauglich • Siehe SOKO Autoposer-interne Regelung
 </div><br />
 
 ## 🚔 Streifenfahrzeuge
@@ -159,6 +159,14 @@ Streifentauglich • Ja
 <div style="display:inline-block;">
 
 ## Audi RS6<br />
+Sitzplätze • 4 Sitzplätze<br />
+Streifentauglich • Ja
+</div><br />
+
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/k6c80cc/image.png" style="border:5px solid #1abc9c;" /></div>
+<div style="display:inline-block;">
+
+## Dodge<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
 </div><br />
