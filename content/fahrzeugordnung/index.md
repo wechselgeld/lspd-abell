@@ -68,9 +68,18 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #968b54;" /></div>
+<div style="display:inline-block;">
+
+## BMW M5<br />
+Nutzung • <span style="color:#968b54">S.W.A.T.</span><br />
+Sitzplätze • 4 Sitzplätze<br />
+Streifentauglich • Siehe S.W.A.T.-interne Regelung
+</div><br />
+
 ## 🕵️ Detective-Fahrzeuge
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/cvKNpKG/Bild-2022-02-02-214113.png" style="border:5px solid #968b54;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/cvKNpKG/Bild-2022-02-02-214113.png" style="border:5px solid #ff6100;" /></div>
 <div style="display:inline-block;">
 
 ## Insurgent<br />
@@ -79,7 +88,7 @@ Sitzplätze • 6 Sitzplätze<br />
 Streifentauglich • Nur für Einsätze
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/yRT0bnP/image.png" style="border:5px solid #968b54;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/yRT0bnP/image.png" style="border:5px solid #ff6100;" /></div>
 <div style="display:inline-block;">
 
 ## Audi A6<br />
@@ -90,22 +99,22 @@ Streifentauglich • Siehe Detective-interne Regelung
 
 ## 🦺 SPU-Fahrzeuge
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #968b54;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #7f00c0;" /></div>
 <div style="display:inline-block;">
 
 ## BMW M5<br />
-Nutzung • <span style="color:#ff6100">SPU</span><br />
+Nutzung • <span style="color:#7f00c0">SPU</span><br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe SPU-interne Regelung
 </div><br />
 
 ## 🚘 SOKO Autoposer-Fahrzeuge
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #968b54;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #002bff;" /></div>
 <div style="display:inline-block;">
 
 ## BMW M5<br />
-Nutzung • <span style="color:#ff6100">SPU</span><br />
+Nutzung • <span style="color:#002bff">SPU</span><br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe SPU-interne Regelung
 </div><br />
