@@ -4,7 +4,7 @@
 ### 🏎️ Alles zum Tuning der Fahrzeuge
 Unsere Fahrzeuge dürfen unabhängig vom jeweiligen Rang der Person optisch — bis auf die Änderung des Felgentypes auf Geländefelgen, die farbliche Anpassung des Nummernschildes und der Grad der Scheibentönung — nicht verändert werden.
 
-```Die einzigen Ausnahmen stellen in diesem Fall unsere Unmarked-Fahrzeuge dar. Diese dürfen ausschließlich von der Leitungsebene farblich angepasst werden oder .```
+```Die einzigen Ausnahmen stellen in diesem Fall unsere Unmarked-Fahrzeuge dar. Diese dürfen ausschließlich von der Leitungsebene oder von unseren Detectives dezent farblich angepasst werden. Dementsprechend sind Änderungen zu Silber, Grau, Weiß oder Schwarz zulässig.```
 
 ### 🚀 Wie schnell unsere Fahrzeuge sind
 Unsere Streifenfahrzeuge sind im Normalfall an andere Wägen angepasst und bringen es auf rund 290 bis 360 km/h. Diese Geschwindigkeit kann mithilfe des oben erwähnten Tunings angepasst und somit erhöht werden.
@@ -68,24 +68,15 @@ Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #968b54;" /></div>
+## 🕵️ Detective-Fahrzeuge
+
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #ff6100;" /></div>
 <div style="display:inline-block;">
 
 ## BMW M5<br />
-Nutzung • <span style="color:#968b54">S.W.A.T.</span><br />
-Sitzplätze • 4 Sitzplätze<br />
-Streifentauglich • Siehe S.W.A.T.-interne Regelung
-</div><br />
-
-## 🕵️ Detective-Fahrzeuge
-
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/cvKNpKG/Bild-2022-02-02-214113.png" style="border:5px solid #ff6100;" /></div>
-<div style="display:inline-block;">
-
-## Insurgent<br />
 Nutzung • <span style="color:#ff6100">Detective</span><br />
-Sitzplätze • 6 Sitzplätze<br />
-Streifentauglich • Nur für Einsätze
+Sitzplätze • 4 Sitzplätze<br />
+Streifentauglich • Siehe Detective-interne Regelung
 </div><br />
 
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/yRT0bnP/image.png" style="border:5px solid #ff6100;" /></div>
@@ -95,28 +86,6 @@ Streifentauglich • Nur für Einsätze
 Nutzung • <span style="color:#ff6100">Detective</span><br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe Detective-interne Regelung
-</div><br />
-
-## 🦺 SPU-Fahrzeuge
-
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #7f00c0;" /></div>
-<div style="display:inline-block;">
-
-## BMW M5<br />
-Nutzung • <span style="color:#7f00c0">SPU</span><br />
-Sitzplätze • 4 Sitzplätze<br />
-Streifentauglich • Siehe SPU-interne Regelung
-</div><br />
-
-## 🚘 SOKO Autoposer-Fahrzeuge
-
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #002bff;" /></div>
-<div style="display:inline-block;">
-
-## BMW M5<br />
-Nutzung • <span style="color:#002bff">SPU</span><br />
-Sitzplätze • 4 Sitzplätze<br />
-Streifentauglich • Siehe SOKO Autoposer-interne Regelung
 </div><br />
 
 ## 🚔 Streifenfahrzeuge
