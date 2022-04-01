@@ -37,31 +37,32 @@ Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, i
 
 Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist das eine Sanktion, die sehr schwerwiegend ist, wird "<span style="color:ff0000">Strafpunkte</span>" in einem dunklen rot dargestellt - ist die Sanktion harmlos und weniger schlimm, wird "<span style="color:#ffea00">Strafpunkte</span>" in einem hellen Gelb dargestellt.
 
-- Vergessen sich in die Dienst An- und Abmeldung oder Streifeneinteilung ein- oder auszutragen » 5x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
-- Falsch geparkt » 10x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
-- Nicht-einhaltung der Funkdisziplin » 10x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
-- Dienstfahrzeug falsch getunt » 10x Westen abgeben abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
-- In das Chief Büro gelaufen ohne zu klopfen » 15x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Vergessen sich [in die/aus der] Dienst An- und Abmeldung oder Streifeneinteilung ein- oder auszutragen » 5x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
 - Unachtsames fahren od. missachten der StvO » 10x Westen abgeben & 100.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
+- Vergessen eine Tür oder Tor in einer staatlichen Einrichtung zu schließen » 10x Westen abgeben & 50.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
+- Falsch geparkt » 10x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
+- Sinnloses nutzen von Emotes » 10x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
+- Nicht-einhaltung der Funkdisziplin » 10x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Eine bewusstlose Person liegen lassen und absichtlich nicht helfen wollen » 25x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Dienstfahrzeug falsch getunt » 10x Westen abgeben abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Fahrzeug- oder Kleiderordnung nicht beachtet » 15x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- In das Chief Büro gelaufen ohne zu klopfen » 15x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Fehlverhalten im Dienst (Lästereien, Zwischenrufe jeglicher Art) od. Tuscheln bei Besprechungen » 25x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Übermäßig Zeit im Police Department verbringen, ohne produktiv zu sein » 20x Westen abgeben & 400.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Dem Aufgabenbereich des LSPD ohne triftigen Grund nicht nachgekommen » 10x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
-- Sinnloses nutzen von Emotes » 10x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
 - Übermäßige Verwendung eines Soundboards od. tanzen im Police Department » 10x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
-- Vergessen eine Tür oder Tor in einer staatlichen Einrichtung zu schließen » 10x Westen abgeben & 50.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
 - Unabgemeldet zu einem Termin gefehlt » 20x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
-- Missachtung der Dienstvorschriften in irgendeiner Art » 10x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
+- Missachtung der Dienstvorschriften in irgendeiner Art » 20x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Schlagen von Zivilisten od. Beamten mit absicht » 15x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
+- Fehlerhafte Akte erstellt » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Sinnloses tasern od. schießen » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Der Dienstwagen wurde entwendet aufgrund von fahrlässigem Handeln » 15x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
-- Fahrzeug- und Kleiderordnung nicht beachtet » 10x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Nicht-respektvoller Umgang (Beleidigungen) gegen einen Vorgesetzten, Zivilisten od. Beamten » 25x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Den Befehl eines Vorgesetzten verweigern » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">20 Strafpunkte</span>
-- Fehlverhalten im Dienst (Lästereien, Zwischenrufe jeglicher Art) od. Tuscheln bei Besprechungen » 25x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Anlügen von Vorgesetzten » 30x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ff6a00">20 Strafpunkte</span>
-- Mit Privatfahrzeug auf Streife » 20x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ff2a00">25 Strafpunkte</span>
-- Eine bewusstlose Person liegen lassen und absichtlich nicht helfen wollen » 25x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Verstoß gegen Abmachungen bei Verhandlungen jeglicher Art » 15x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ff6a00">20 Strafpunkte</span>
 - Verursachen eines Fraktionsstrikes » 40x Westen abgeben & 400.000 $ Strafzahlung & <span style="color:#ff2a00">25 Strafpunkte</span>
-- Nicht-respektvoller Umgang (Beleidigungen) gegen einen Vorgesetzten, Zivilisten od. Beamten » 25x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
+- Mit Privatfahrzeug auf Streife » 20x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ff2a00">25 Strafpunkte</span>
 
 *Sind Sanktionen hier nicht aufgelistet, werden diese nach eigenem Ermessen erteilt.*
 
