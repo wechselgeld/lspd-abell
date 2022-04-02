@@ -37,7 +37,8 @@ Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, i
 
 Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist das eine Sanktion, die sehr schwerwiegend ist, wird "<span style="color:ff0000">Strafpunkte</span>" in einem dunklen rot dargestellt - ist die Sanktion harmlos und weniger schlimm, wird "<span style="color:#ffea00">Strafpunkte</span>" in einem hellen Gelb dargestellt.
 
-- Vergessen sich [in die/aus der] Dienst An- und Abmeldung oder Streifeneinteilung ein- oder auszutragen » 5x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
+- Vergessen sich in die Streifeneinteilung einzutragen » 5x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
+- Vergessen sich aus der Streifeneinteilung auszutragen » 5x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
 - Unachtsames fahren od. missachten der StvO » 10x Westen abgeben & 100.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
 - Vergessen eine Tür oder Tor in einer staatlichen Einrichtung zu schließen » 10x Westen abgeben & 50.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
 - Falsch geparkt » 10x Westen abgeben & 150.000 $ Strafzahlung & <span style="color:#ffea00">5 Strafpunkte</span>
@@ -52,6 +53,7 @@ Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist 
 - Dienstfahrzeug falsch getunt » 10x Westen abgeben abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Unabgemeldet zu einem Termin gefehlt » 20x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Missachtung der Dienstvorschriften in irgendeiner Art » 20x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
+- Fehlerhaftes ausrechen oder fälschen der Dienstzeiten » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Fahrzeug- oder Kleiderordnung nicht beachtet » 15x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Schlagen von Zivilisten od. Beamten mit absicht » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Fehlerhafte Akte erstellt oder vergessen eine Akte zu schließen » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
