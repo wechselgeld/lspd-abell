@@ -50,10 +50,10 @@ Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist 
 - Übermäßig Zeit im Police Department verbringen, ohne produktiv zu sein » 20x Westen abgeben & 400.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Dem Aufgabenbereich des LSPD ohne triftigen Grund nicht nachgekommen » 10x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Übermäßige Verwendung eines Soundboards od. tanzen im Police Department » 10x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
+- Fehlerhaftes ausrechen oder fälschen der Dienstzeiten » 20x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Dienstfahrzeug falsch getunt » 10x Westen abgeben abgeben & 200.000 $ Strafzahlung & <span style="color:#ffea00">10 Strafpunkte</span>
 - Unabgemeldet zu einem Termin gefehlt » 20x Westen abgeben & 250.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Missachtung der Dienstvorschriften in irgendeiner Art » 20x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
-- Fehlerhaftes ausrechen oder fälschen der Dienstzeiten » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Fahrzeug- oder Kleiderordnung nicht beachtet » 15x Westen abgeben & 200.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Schlagen von Zivilisten od. Beamten mit absicht » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
 - Fehlerhafte Akte erstellt oder vergessen eine Akte zu schließen » 25x Westen abgeben & 300.000 $ Strafzahlung & <span style="color:#ff6a00">15 Strafpunkte</span>
