@@ -6,12 +6,11 @@ Sanktionen dürfen von allen Mitgliedern aus der Leitungsebene und Mitarbeitern 
 Einen Platz für das Qualitätsmanagement erhältst Du ab dem Rang Corporal oder höher. In seltenen Fällen werden Ausnahmen erteilt.
 
 ### ⏱️ Wie lange Du Zeit hast, um die Sanktion zu begleichen
-Um Deine Sanktion abzuarbeiten oder zu begleichen hast Du insgesamt acht Tage Zeit.
-Begleichst Du Deine Sanktion nach fünf Tagen nicht, so erhältst Du eine Sanktionserinnerung, bei welcher die zu begleichende Strafe verdoppelt wird. Sollte eine solche Sanktionserinnerung ausgestellt werden, so hast Du anschließend drei Tage Zeit, um diese zu begleichen. Geschieht das nicht, erfolgt eine Entlassung aus dem Polizeidienst.
+Um Deine Sanktion abzuarbeiten oder zu begleichen hast Du insgesamt 72 Stunden, also drei Tage Zeit.
+Begleichst Du Deine Sanktion nach 72 Stunden nicht, so erhältst Du eine fristlose Kündigung.
 
-### 🛍️ Definition von "abgeben"
-Was heißt "abgeben"? Wie Du schon bemerkt hast, sanktionieren wir mit dem abgeben von Äpfeln, Aramidfasern und mehr.
-Abgeben heißt in diesem Fall aber nicht, dass Ihr sie zwingend selbst sammeln und verarbeiten müsst - Ihr könnt sie auch einfach von Zivilisten kaufen. Hautpsache Ihr gebt sie beim Qualitätsmanagement ab.
+### 🧑‍🏭 Was passiert, wenn Du die Sanktion nicht begleichen kannst
+Wenn Du kein Geld für eine Sanktion bereit hast, kannst Du Dich bei der Leitungsebene melden, um die Sanktion anderweitig abzuarbeiten. 250.000 $ Strafzahlung entsprechen einer halben Stunde MD- oder Leitstellendienst.
 
 ### ❗ Die relevantesten Informationen zum Thema Sanktionen und wo sie bekanntgegeben werden
 Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, in welchen Du die wichtigsten Informationen und Beiträge findest. Andernfalls findest Du alles neue in unseren Informations-Kanälen.
@@ -58,10 +57,6 @@ Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist 
 *Sind Sanktionen hier nicht aufgelistet, werden diese nach eigenem Ermessen erteilt.*
 
 ## Weitere Informationen
-### 🔴 Strafpunkte
-Sammelt man <span style="color:#ff0000">40 Strafpunkte</span> innerhalb eines Monats, erfolgt eine Abstufung auf den nächst niedrigeren Rang. Bei Rekruten erfolgt eine Kündigung aufgrund des nichtbestehens der Probezeit. Sind <span style="color:#ff0000">60 Strafpunkte</span> innerhalb eines Monats erreicht, so erfolgt eine fristlose Kündigung.
-Alle Strafpunkte verfallen jeweils am ersten Tag des nächsten Monats.
-
 ### 📄 Vorlagen und Vorgaben
 Die Nachrichten-Vorlage für Verwarnungen bzw. Abmahnungen findet man unter [wechselgeld.xyz](https://wechselgeld.xyz/cdn/static/index/bMXMWzSC47gwNHq/pd.warn.txt). Die Vorlage für eine Sanktion findet man ebenso unter [wechselgeld.xyz](https://wechselgeld.xyz/cdn/static/index/bMXMWzSC47gwNHq/pd.sanktion.txt).
 Diese Vorlagen werden 1:1 übernommen. Ausgenommen davon sind Felder, in welchen man etwas einträgt.
