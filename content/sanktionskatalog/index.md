@@ -29,8 +29,6 @@ Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, i
 ## Katalog
 > <span style="color:#0064FF">Vergehen</span> » Geldstrafe & <span style="color:#ff2a00">Abmahnungen</span>
 
-Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist das eine Sanktion, die sehr schwerwiegend ist, wird "<span style="color:ff0000">Strafpunkte</span>" in einem dunklen rot dargestellt - ist die Sanktion harmlos und weniger schlimm, wird "<span style="color:#ffea00">Strafpunkte</span>" in einem hellen Gelb dargestellt.
-
 - Vergessen sich in die Streifeneinteilung einzutragen » 250.000 $ Strafzahlung
 - Vergessen sich aus der Streifeneinteilung auszutragen » 250.000 $ Strafzahlung
 - Vergessen eine Tür oder Tor in einer staatlichen Einrichtung zu schließen » 250.000 $ Strafzahlung
@@ -68,3 +66,4 @@ Die Warn-Rolle in Discord wird nach der abgelaufenen Frist nur von der Leitungse
 - Sanktionen werden ausschließlich von der Leitungsebene abgenommen.
 - Sollte ein Officer drei Verwarnungen erhalten, so erfolgt eine Kündigung.
 - Wenn dieselbe Sanktion innerhalb einer Woche mehrfach auftritt, spricht die Leitung des Qualitätsmanagements eine weitere Verwarnung aus.
+- Officer sollten selbstständig an die Leitungsebene herantreten, sobald ihre Abmahnung abgelaufen ist.
