@@ -22,17 +22,12 @@ Mit einem Klick auf die folgenden Buttons gelangst Du zu den Discord-Kanälen, i
 </a></div> <div style="padding: 0px 0px 24px 0px">
 <a 
   style="border-radius: 6px;font-size: 11pt; padding:10px 20px;background-color: #353D3E; color: #ffffff;" 
-  href="https://discord.com/channels/946122132151230514/946259720593895434"> 
-  Sanktionserinnerungen-Kanal <img style="position: relative; top: 5px;left: 3px;" alt="discord logo" width="20" src="./assets/discord.svg">
-</a></div> <div style="padding: 0px 0px 24px 0px">
-<a 
-  style="border-radius: 6px;font-size: 11pt; padding:10px 20px;background-color: #353D3E; color: #ffffff;" 
   href="https://discord.com/channels/946122132151230514/946258864523837450"> 
   Sanktionen-Kanal <img style="position: relative; top: 5px;left: 3px;" alt="discord logo" width="20" src="./assets/discord.svg">
 </a></div>
 
 ## Katalog
-> <span style="color:#0064FF">Vergehen</span> » Physische Strafe, Geldstrafe, <span style="color:#ff2a00">Strafpunkte</span>
+> <span style="color:#0064FF">Vergehen</span> » Geldstrafe & <span style="color:#ff2a00">Abmahnungen</span>
 
 Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist das eine Sanktion, die sehr schwerwiegend ist, wird "<span style="color:ff0000">Strafpunkte</span>" in einem dunklen rot dargestellt - ist die Sanktion harmlos und weniger schlimm, wird "<span style="color:#ffea00">Strafpunkte</span>" in einem hellen Gelb dargestellt.
 
@@ -41,18 +36,21 @@ Die Strafpunkte werden je nach schwere in verschiedenen Farben dargestellt. Ist 
 - Vergessen eine Tür oder Tor in einer staatlichen Einrichtung zu schließen » 250.000 $ Strafzahlung
 - Falsch geparkt » 250.000 $ Strafzahlung
 - In das Chief Büro gelaufen ohne zu klopfen » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für drei Tage</span>
-- Fehlverhalten im Dienst od. undiszipliniertes Verhalten » 1.000.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für 14 Tage</span> & ggf. Degradierung
+- Mit Privatfahrzeug auf Streife » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für drei Tage</span>
+- Fehlerhafte Akte erstellt oder vergessen eine Akte zu schließen » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für drei Tage</span>
 - Dienstfahrzeug falsch getunt » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für drei Tage</span>
 - Unabgemeldet zu einem Termin gefehlt » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für drei Tage</span>
-- Missachtung der Dienstvorschriften in irgendeiner Art » 1.000.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für 14 Tage</span>
-- Fahrzeug- oder Kleiderordnung nicht beachtet » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für sieben Tage</span>
-- Unnötiges Schlagen/Tazern/Schießen » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für sieben Tage</span>
-- Fehlerhafte Akte erstellt oder vergessen eine Akte zu schließen » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für drei Tage</span>
-- Nicht-respektvoller Umgang (Beleidigungen/Anlügen) gegen einen Vorgesetzten » 1.000.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Verwarnung nach Schwere des Vergehens</span>
-- Den Befehl eines Vorgesetzten verweigern » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für 14 Tage</span>
+
 - Verstoß gegen Abmachungen bei Verhandlungen jeglicher Art » 750.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für sieben Tage</span>
+- Unnötiges Schlagen/Tazern/Schießen » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für sieben Tage</span>
+- Fahrzeug- oder Kleiderordnung nicht beachtet » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für sieben Tage</span>
+
+- Fehlverhalten im Dienst od. undiszipliniertes Verhalten » 1.000.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für 14 Tage</span> & ggf. Degradierung
+- Den Befehl eines Vorgesetzten verweigern » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für 14 Tage</span>
+- Missachtung der Dienstvorschriften in irgendeiner Art » 1.000.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für 14 Tage</span>
+
 - Verursachen eines Fraktionsstrikes » 1.000.000 $ Strafzahlung & <span style="color:#ff6a00">Eine permanente Abmahnung</span>
-- Mit Privatfahrzeug auf Streife » 500.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Abmahnung für drei Tage</span>
+- Nicht-respektvoller Umgang (Beleidigungen/Anlügen) gegen einen Vorgesetzten » 1.000.000 $ Strafzahlung & <span style="color:#ff6a00">Eine Verwarnung nach Schwere des Vergehens</span>
 
 *Sind Sanktionen hier nicht aufgelistet, werden diese nach eigenem Ermessen erteilt.*
 
@@ -66,8 +64,7 @@ Hat ein Officer seine Sanktion abgearbeitet, wird auf die entsprechende Nachrich
 Die Warn-Rolle in Discord wird nach der abgelaufenen Frist nur von der Leitungsebene entfernt und nicht von den Mitarbeitern des Qualitätsmanagements!
 
 ### ✅ Ablauf
-- Der Officer der die Sanktion erhält, ist dazu verpflichtet, selbständig an das Qualitätsmanagement heranzutreten!
-- Sanktionen werden ausschließlich vom Qualitätsmanagement abgenommen.
+- Der Officer der die Sanktion erhält, ist dazu verpflichtet, selbständig an die Leitungsebene heranzutreten!
+- Sanktionen werden ausschließlich von der Leitungsebene abgenommen.
 - Sollte ein Officer drei Verwarnungen erhalten, so erfolgt eine Kündigung.
-- Sanktionen können nicht mithilfe von Geld umgangen werden!
 - Wenn dieselbe Sanktion innerhalb einer Woche mehrfach auftritt, spricht die Leitung des Qualitätsmanagements eine weitere Verwarnung aus.
