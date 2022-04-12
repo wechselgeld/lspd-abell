@@ -42,16 +42,6 @@ Sitzplätze • 6 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
-<!-- > VAPID <!-->
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/DYyyB0D/image.png" style="border:5px solid #968b54;" /></div>
-<div style="display:inline-block;">
-
-## fibc<br />
-Nutzung • <span style="color:#968b54">S.W.A.T.</span><br />
-Sitzplätze • 4 Sitzplätze<br />
-Streifentauglich • Siehe S.W.A.T.-interne Regelung
-</div><br />
-
 <!-- > GRANGER <!-->
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/9qbM7qg/Bild-2022-02-02-215247.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
@@ -156,4 +146,12 @@ Streifentauglich • Ja
 ## policefplu<br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Ja
+</div><br />
+
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/DYyyB0D/image.png" style="border:5px solid #968b54;" /></div>
+<div style="display:inline-block;">
+
+## fibc<br />
+Sitzplätze • 4 Sitzplätze<br />
+Streifentauglich • Nein
 </div><br />
