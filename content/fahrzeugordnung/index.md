@@ -32,6 +32,7 @@ Nutzungserlaubnis • Jederzeit erteilt
 </div><br />
 
 ## 🔫 S.W.A.T.-Fahrzeuge
+<!-- > INSURGENT <!-->
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/cvKNpKG/Bild-2022-02-02-214113.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
@@ -41,15 +42,17 @@ Sitzplätze • 6 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/FKTf89y/Bild-2022-02-02-214359.png" style="border:5px solid #968b54;" /></div>
+<!-- > VAPID <!-->
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/DYyyB0D/image.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
-## Riot<br />
+## Vapid Caracara<br />
 Nutzung • <span style="color:#968b54">S.W.A.T.</span><br />
-Sitzplätze • 8 Sitzplätze<br />
+Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
+<!-- > GRANGER <!-->
 <div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/9qbM7qg/Bild-2022-02-02-215247.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
@@ -59,10 +62,11 @@ Sitzplätze • 8 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/BcK5fjr/image.png" style="border:5px solid #968b54;" /></div>
+<!-- > SPEEDO EXPRESS <!-->
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/DYyyB0D/image.png" style="border:5px solid #968b54;" /></div>
 <div style="display:inline-block;">
 
-## BMW X5 (S.W.A.T.-Branding)<br />
+## Speedo Express<br />
 Nutzung • <span style="color:#968b54">S.W.A.T.</span><br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe S.W.A.T.-interne Regelung
@@ -70,22 +74,46 @@ Streifentauglich • Siehe S.W.A.T.-interne Regelung
 
 ## 🕵️ Detective-Fahrzeuge
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/6tpHfZm/image.png" style="border:5px solid #ff6100;" /></div>
+<!-- > UMARKED 1 <!-->
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/VxYLBr0/image.png" style="border:5px solid #ff6100;" /></div>
 <div style="display:inline-block;">
 
-## BMW M5<br />
+## Bravado (Unmarked I)<br />
 Nutzung • <span style="color:#ff6100">Detective</span><br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe Detective-interne Regelung
 </div><br />
 
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/yRT0bnP/image.png" style="border:5px solid #ff6100;" /></div>
+<!-- > SPEEDO EXPRESS <!-->
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/YtdSmN2/image.png" style="border:5px solid #ff6100;" /></div>
 <div style="display:inline-block;">
 
-## Audi A6<br />
+## Bravado (Unmarked II)<br />
 Nutzung • <span style="color:#ff6100">Detective</span><br />
 Sitzplätze • 4 Sitzplätze<br />
 Streifentauglich • Siehe Detective-interne Regelung
+</div><br />
+
+## 🏎️ SOKO Autoposer-Fahrzeuge
+
+<!-- > UMARKED 1 <!-->
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/VxYLBr0/image.png" style="border:5px solid #cebbc2;" /></div>
+<div style="display:inline-block;">
+
+## Bravado (Unmarked I)<br />
+Nutzung • <span style="color:#cebbc2">SOKO Autoposer</span><br />
+Sitzplätze • 4 Sitzplätze<br />
+Streifentauglich • Siehe SOKO Autoposer-interne Regelung
+</div><br />
+
+<!-- > UNMARKED 2 <!-->
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/YtdSmN2/image.png" style="border:5px solid #cebbc2;" /></div>
+<div style="display:inline-block;">
+
+## Bravado (Unmarked II)<br />
+Nutzung • <span style="color:#cebbc2">SOKO Autoposer</span><br />
+Sitzplätze • 4 Sitzplätze<br />
+Streifentauglich • Siehe SOKO Autoposer-interne Regelung
 </div><br />
 
 ## 🚔 Streifenfahrzeuge
