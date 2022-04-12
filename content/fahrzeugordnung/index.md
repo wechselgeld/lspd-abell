@@ -97,7 +97,7 @@ Streifentauglich • Siehe Detective-interne Regelung
 ## 🏎️ SOKO Autoposer-Fahrzeuge
 
 <!-- > SCHAFTER <!-->
-<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/VxYLBr0/image.png" style="border:5px solid #cebbc2;" /></div>
+<div style="display:inline-block;vertical-align:top;padding: 10px;"><img width="500" src="https://i.ibb.co/7kPKvvz/image.png" style="border:5px solid #cebbc2;" /></div>
 <div style="display:inline-block;">
 
 ## fibs<br />
